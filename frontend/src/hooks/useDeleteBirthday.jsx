@@ -9,7 +9,7 @@ const useDeleteBirthday = () => {
 
   const deleteBirthday = async (birthdayId) => {
     if (!user) {
-      console.log("User not authenticated");
+      // console.log("User not authenticated");
       return;
     }
 
