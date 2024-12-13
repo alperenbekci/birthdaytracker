@@ -1,6 +1,9 @@
-[Turkish Version](https://github.com/alperenbekci/birthdaytracker/blob/main/README_TR.md)
+
 
 # Birthday Tracker Platform Documentation
+![Group 160](https://github.com/user-attachments/assets/4a604166-580a-4703-968a-1fe5bd1c1e3a)
+
+[Turkish Version](https://github.com/alperenbekci/birthdaytracker/blob/main/README_TR.md)
 
 This document provides a detailed explanation of the Birthday Tracker platform, developed in compliance with the test case requirements specified by Paribu. The following aspects will be covered:
 
