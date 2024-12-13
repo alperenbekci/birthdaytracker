@@ -1,6 +1,9 @@
-[English Version](https://github.com/alperenbekci/birthdaytracker/blob/main/README.md)
+
 
 # Birthday Tracker Platform Dokümanı
+![Group 160](https://github.com/user-attachments/assets/45f784fb-38c2-4fa5-9163-4b7d3bec9cef)
+
+[İngilizce Versiyonu](https://github.com/alperenbekci/birthdaytracker/blob/main/README.md)
 
 Bu doküman, Paribu tarafından belirtilen test case gereksinimlerine uygun olarak geliştirilen Birthday Tracker platformunun detaylı açıklamasını sunar. Şu unsurlar ele alınacaktır:
 
